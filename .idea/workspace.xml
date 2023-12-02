@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8b71f53e-60a5-471c-9b8f-b1221b540ca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$164a75c551eca91e513e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$164a75c551eca91e513e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$164a75c551eca91e513e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,15 +50,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Scala Console" value="62" />
-          <entry key="sbt" value="87" />
+          <entry key="sbt" value="103" />
           <entry key="sbtShell" value="3" />
-          <entry key="scala" value="310" />
+          <entry key="scala" value="312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="372" />
-          <entry key="sbt" value="87" />
+          <entry key="Scala" value="374" />
+          <entry key="sbt" value="103" />
           <entry key="sbtShell" value="3" />
         </counts>
       </usages-collector>
@@ -71,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="56" selection-start-column="56" selection-end-column="56" />
+              <caret column="26" selection-start-column="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -89,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="176">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -119,6 +123,7 @@
         <option value="$PROJECT_DIR$/project/plugins.sbt" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala" />
+        <option value="$PROJECT_DIR$/project/assembly.sbt" />
       </list>
     </option>
   </component>
@@ -142,6 +147,17 @@
             <path>
               <item name="Scala-Starter-Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scala-Starter-Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala-Starter-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala-Starter-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala-Starter-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala-Starter-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Scala-Starter-Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -192,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1701556215540" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1701556575224" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -291,8 +307,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="940" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,7 +325,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32897863" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32897863" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32897863" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32897863" />
@@ -349,10 +366,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        <state relative-caret-position="176">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -363,10 +380,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/myhome/learnings/MainApp.scala">
+    <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state>
+          <caret column="26" selection-start-column="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>

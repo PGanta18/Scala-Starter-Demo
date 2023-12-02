@@ -6,7 +6,7 @@ object MainApp extends App{
 
      val addition = add(y=4,x=2);
 
-     println("sum of 3 & 2 =>",addition)
+     println("sum of 2 & 4 =>",addition)
 
 
   def add(x: Int,y: Int):Int=
