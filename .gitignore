@@ -1,3 +1,11 @@
 project/target
 .idea
 .target
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/scala/.DS_Store
+src/main/scala/com/.DS_Store
+src/main/scala/com/myhome/.DS_Store
+target
+
